@@ -1,0 +1,15 @@
+.tile {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.tile-selected { 
+    background-color: lightgreen;
+    border: 5px solid blue;
+}
+
+.tile-unselected {
+    background-color: lightgrey;
+}
